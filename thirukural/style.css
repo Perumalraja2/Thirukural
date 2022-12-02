@@ -1,0 +1,30 @@
+.input-group{
+	
+	margin-top: 10%;
+
+}
+
+body,html{
+
+	background-image: url("https://media.istockphoto.com/id/510322864/photo/red-sunset.jpg?s=612x612&w=0&k=20&c=XSMKCBQTgVfllBHRMcEVTypBsPJBxROb0fgcZxUuSjE=");
+    background-size: cover;
+}
+
+.container{
+
+}
+.thiruvalluvar{
+align-content: center;
+margin-top: 12%;
+}
+#las{
+	text-align: right;
+}
+.card-body{
+background-image: linear-gradient(to right, red , yellow);
+padding: 40px;
+margin-left: 0;
+}
+.card-text{
+	color:white;
+}
